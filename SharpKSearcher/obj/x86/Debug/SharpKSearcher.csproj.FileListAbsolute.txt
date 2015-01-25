@@ -1,0 +1,8 @@
+F:\VsProject\MyProject\SharpKSearcher\SharpKSearcher\bin\Debug\SharpKSearcher.exe
+F:\VsProject\MyProject\SharpKSearcher\SharpKSearcher\bin\Debug\SharpKSearcher.pdb
+F:\VsProject\MyProject\SharpKSearcher\SharpKSearcher\obj\x86\Debug\SharpKSearcher.MainWnddlg.resources
+F:\VsProject\MyProject\SharpKSearcher\SharpKSearcher\obj\x86\Debug\SharpKSearcher.Properties.Resources.resources
+F:\VsProject\MyProject\SharpKSearcher\SharpKSearcher\obj\x86\Debug\SharpKSearcher.csproj.GenerateResource.Cache
+F:\VsProject\MyProject\SharpKSearcher\SharpKSearcher\obj\x86\Debug\SharpKSearcher.exe
+F:\VsProject\MyProject\SharpKSearcher\SharpKSearcher\obj\x86\Debug\SharpKSearcher.pdb
+F:\VsProject\MyProject\SharpKSearcher\SharpKSearcher\obj\x86\Debug\SharpKSearcher.csprojResolveAssemblyReference.cache
